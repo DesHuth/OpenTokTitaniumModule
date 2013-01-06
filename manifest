@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Derrick Huth
+license: Specify your license
+copyright: 2012 Derrick Huth
+
+
+# these should not be edited
+name: opentok
+moduleid: com.phc.opentok
+guid: 00b8f21c-1257-458d-9cdb-cb1a039bb78d
+platform: android
+minsdk: 2.1.4.GA
